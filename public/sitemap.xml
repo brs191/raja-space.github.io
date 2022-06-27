@@ -2,12 +2,90 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2022-06-27T16:37:20+09:00</lastmod>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://example.org/books/</loc>
+    <lastmod>2022-06-27T16:37:20+09:00</lastmod>
+  </url><url>
+    <loc>http://example.org/books/money/thinking_fast_and_slow/</loc>
+    <lastmod>2022-06-27T16:37:20+09:00</lastmod>
+  </url><url>
+    <loc>http://example.org/books/money/the_essays_of_warren_buffet/</loc>
+    <lastmod>2022-06-27T16:37:11+09:00</lastmod>
+  </url><url>
+    <loc>http://example.org/books/money/the_intelligent_investor/</loc>
+    <lastmod>2022-06-27T16:36:58+09:00</lastmod>
+  </url><url>
+    <loc>http://example.org/books/money/masterclass_with_super_investors/</loc>
+    <lastmod>2022-06-27T16:36:49+09:00</lastmod>
+  </url><url>
+    <loc>http://example.org/books/money/the_thoughtful_investor/</loc>
+    <lastmod>2022-06-27T16:36:36+09:00</lastmod>
+  </url><url>
+    <loc>http://example.org/books/money/romancing_with_the_balance_sheets/</loc>
+    <lastmod>2022-06-27T16:36:19+09:00</lastmod>
+  </url><url>
+    <loc>http://example.org/books/money/the_simple_path_to_wealth/</loc>
+    <lastmod>2022-06-27T16:36:04+09:00</lastmod>
+  </url><url>
+    <loc>http://example.org/books/money/the_phychology_of_money/</loc>
+    <lastmod>2022-06-27T16:35:51+09:00</lastmod>
+  </url><url>
+    <loc>http://example.org/books/money/a_random_walk_down_wall_street/</loc>
+    <lastmod>2022-06-27T16:35:34+09:00</lastmod>
+  </url><url>
+    <loc>http://example.org/books/money/the_little_book_that_beats_the_market/</loc>
+    <lastmod>2022-06-27T16:35:16+09:00</lastmod>
+  </url><url>
+    <loc>http://example.org/books/money/common_stocks_and_uncommon_profits/</loc>
+    <lastmod>2022-06-27T16:35:02+09:00</lastmod>
+  </url><url>
+    <loc>http://example.org/books/life/late_boomers/</loc>
+    <lastmod>2022-06-27T16:29:54+09:00</lastmod>
+  </url><url>
+    <loc>http://example.org/books/life/ikigai/</loc>
+    <lastmod>2022-06-27T16:29:43+09:00</lastmod>
+  </url><url>
+    <loc>http://example.org/books/life/never_split_the_difference/</loc>
+    <lastmod>2022-06-27T16:29:31+09:00</lastmod>
+  </url><url>
+    <loc>http://example.org/books/life/green_lights/</loc>
+    <lastmod>2022-06-27T16:29:22+09:00</lastmod>
+  </url><url>
+    <loc>http://example.org/books/life/who_will_cry_when_you_die/</loc>
+    <lastmod>2022-06-27T16:29:14+09:00</lastmod>
+  </url><url>
+    <loc>http://example.org/books/life/inner_engineering/</loc>
+    <lastmod>2022-06-27T16:29:04+09:00</lastmod>
+  </url><url>
+    <loc>http://example.org/books/life/the_coaching_habit/</loc>
+    <lastmod>2022-06-27T16:28:52+09:00</lastmod>
+  </url><url>
+    <loc>http://example.org/books/life/the_subtle_art_of_not_giving_a_fuck/</loc>
+    <lastmod>2022-06-27T16:28:43+09:00</lastmod>
+  </url><url>
+    <loc>http://example.org/books/life/atomic_habits/</loc>
+    <lastmod>2022-06-27T16:28:25+09:00</lastmod>
+  </url><url>
+    <loc>http://example.org/books/money/the_five_rules_of_successfull_stock_investing/</loc>
+    <lastmod>2022-06-27T15:48:08+09:00</lastmod>
+  </url><url>
+    <loc>http://example.org/books/fiction/the_immortals_of_meluha/</loc>
+    <lastmod>2022-06-27T13:45:16+09:00</lastmod>
+  </url><url>
+    <loc>http://example.org/books/health/sleep_smarter/</loc>
+    <lastmod>2022-06-27T13:44:22+09:00</lastmod>
+  </url><url>
+    <loc>http://example.org/books/money/one_up_on_wall_street/</loc>
+    <lastmod>2022-06-27T13:43:38+09:00</lastmod>
+  </url><url>
+    <loc>http://example.org/books/life/the_ryhtm_of_life/</loc>
+    <lastmod>2022-06-27T13:42:53+09:00</lastmod>
+  </url><url>
     <loc>http://example.org/search/</loc>
     <lastmod>2022-06-25T10:12:02+09:00</lastmod>
-  </url><url>
-    <loc>http://example.org/</loc>
-    <lastmod>2022-06-22T21:19:02+09:00</lastmod>
-    <priority>0</priority>
   </url><url>
     <loc>http://example.org/posts/2022/</loc>
     <lastmod>2022-06-22T21:19:02+09:00</lastmod>
@@ -56,9 +134,6 @@
   </url><url>
     <loc>http://example.org/contact/</loc>
     <lastmod>2022-06-21T15:10:56+09:00</lastmod>
-  </url><url>
-    <loc>http://example.org/about/</loc>
-    <lastmod>2022-06-21T15:01:29+09:00</lastmod>
   </url><url>
     <loc>http://example.org/tags/family/</loc>
     <lastmod>2022-06-02T12:45:51-06:00</lastmod>
