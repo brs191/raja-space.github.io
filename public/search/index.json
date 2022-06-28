@@ -1,131 +1,6 @@
 {
   "results" : [
       {
-        "href": "http://example.org/books/money/thinking_fast_and_slow/",
-        "title": "Thinking Fast And Slow",
-        "body" : "This is the summary of the book \u0026ldquo;Thinking Fast And Slow\u0026rdquo;\n"
-      },
-      {
-        "href": "http://example.org/books/money/the_essays_of_warren_buffet/",
-        "title": "The Essays Of Warren Buffet",
-        "body" : "This is the summary of the book \u0026ldquo;The Essays Of Warren Buffet\u0026rdquo;\n"
-      },
-      {
-        "href": "http://example.org/books/money/the_intelligent_investor/",
-        "title": "The Intelligent Investor",
-        "body" : "This is the summary of the book \u0026ldquo;The Intelligent Investor\u0026rdquo;\n"
-      },
-      {
-        "href": "http://example.org/books/money/masterclass_with_super_investors/",
-        "title": "Master Class With Super Investors",
-        "body" : "This is the summary of the book \u0026ldquo;Master Class With Super Investors\u0026rdquo;\n"
-      },
-      {
-        "href": "http://example.org/books/money/the_thoughtful_investor/",
-        "title": "The Thoughtful Investor",
-        "body" : "This is the summary of the book \u0026ldquo;The Thoughtful Investor\u0026rdquo;\n"
-      },
-      {
-        "href": "http://example.org/books/money/romancing_with_the_balance_sheets/",
-        "title": "Romancing With The Balance Sheets",
-        "body" : "This is the summary of the book \u0026ldquo;Romancing With The Balance Sheets\u0026rdquo;\n"
-      },
-      {
-        "href": "http://example.org/books/money/the_simple_path_to_wealth/",
-        "title": "The Simple Path To Wealth",
-        "body" : "This is the summary of the book \u0026ldquo;The Simple Path To Wealth\u0026rdquo;\n"
-      },
-      {
-        "href": "http://example.org/books/money/the_phychology_of_money/",
-        "title": "The Psychology Of Money",
-        "body" : "This is the summary of the book \u0026ldquo;The Psychology Of Money\u0026rdquo;\n"
-      },
-      {
-        "href": "http://example.org/books/money/a_random_walk_down_wall_street/",
-        "title": "A Random Walk Down Wall Street",
-        "body" : "This is the summary of the book \u0026ldquo;A Random Walk Down Wall Street\u0026rdquo;\n"
-      },
-      {
-        "href": "http://example.org/books/money/the_little_book_that_beats_the_market/",
-        "title": "The Little Book That Beats The Market",
-        "body" : "This is the summary of the book \u0026ldquo;The Little Book That Beats The Market\u0026rdquo;\n"
-      },
-      {
-        "href": "http://example.org/books/money/common_stocks_and_uncommon_profits/",
-        "title": "Common Stocks And Uncommon Profits",
-        "body" : "This is the summary of the book \u0026ldquo;Common Stocks And Uncommon Profits\u0026rdquo;\n"
-      },
-      {
-        "href": "http://example.org/books/life/late_boomers/",
-        "title": "Late Boomers",
-        "body" : "This is the summary of the book \u0026ldquo;Late Boomers\u0026rdquo;\n"
-      },
-      {
-        "href": "http://example.org/books/life/ikigai/",
-        "title": "Ikigai",
-        "body" : "This is the summary of the book \u0026ldquo;Ikigai\u0026rdquo;\n"
-      },
-      {
-        "href": "http://example.org/books/life/never_split_the_difference/",
-        "title": "Never Split The Difference",
-        "body" : "This is the summary of the book \u0026ldquo;Never Split The Difference\u0026rdquo;\n"
-      },
-      {
-        "href": "http://example.org/books/life/green_lights/",
-        "title": "Green Lights",
-        "body" : "This is the summary of the book \u0026ldquo;Green Lights\u0026rdquo;\n"
-      },
-      {
-        "href": "http://example.org/books/life/who_will_cry_when_you_die/",
-        "title": "Who Will Cry When You Die",
-        "body" : "This is the summary of the book \u0026ldquo;Who Will Cry When You Die\u0026rdquo;\n"
-      },
-      {
-        "href": "http://example.org/books/life/inner_engineering/",
-        "title": "Inner Engineering",
-        "body" : "This is the summary of the book \u0026ldquo;Inner Engineering\u0026rdquo;\n"
-      },
-      {
-        "href": "http://example.org/books/life/the_coaching_habit/",
-        "title": "The Coaching Habit",
-        "body" : "This is the summary of the book \u0026ldquo;The Coaching Habit\u0026rdquo;\n"
-      },
-      {
-        "href": "http://example.org/books/life/the_subtle_art_of_not_giving_a_fuck/",
-        "title": "The Subtle Art Of Not Giving A F*ck",
-        "body" : "This is the summary of the book \u0026ldquo;The Subtle Art Of Not Giving A F*ck\u0026rdquo;\n"
-      },
-      {
-        "href": "http://example.org/books/life/atomic_habits/",
-        "title": "Atomic Habits",
-        "body" : "This is the summary of the book \u0026ldquo;Atomic Habits\u0026rdquo;\n"
-      },
-      {
-        "href": "http://example.org/books/money/the_five_rules_of_successfull_stock_investing/",
-        "title": "The Five Rules Of Successful Stock Investing",
-        "body" : "This is the summary of \u0026ldquo;The Five Rules of Successful Stock Investing\u0026rdquo;\n"
-      },
-      {
-        "href": "http://example.org/books/fiction/the_immortals_of_meluha/",
-        "title": "The Immortals Of Meluha",
-        "body" : "Summary of the book \u0026ldquo;The Immortals of Meluha\u0026rdquo;\n"
-      },
-      {
-        "href": "http://example.org/books/health/sleep_smarter/",
-        "title": "Sleep Smarter",
-        "body" : "Summary of the book \u0026ldquo;Sleep Smarter\u0026rdquo;\n"
-      },
-      {
-        "href": "http://example.org/books/money/one_up_on_wall_street/",
-        "title": "One Up On Wall Street",
-        "body" : "This is the summary of the book \u0026ldquo;One Up on Wall Street\u0026rdquo;\n"
-      },
-      {
-        "href": "http://example.org/books/life/the_ryhtm_of_life/",
-        "title": "The Ryhtm Of Life",
-        "body" : "Summary of the book \u0026ldquo;The Rhythm of Life\u0026rdquo;\n"
-      },
-      {
         "href": "http://example.org/search/",
         "title": "Search",
         "body" : ""
@@ -164,6 +39,11 @@
         "href": "http://example.org/contact/",
         "title": "Contact",
         "body" : "This is contact page.\n"
+      },
+      {
+        "href": "http://example.org/about/",
+        "title": "About",
+        "body" : "This is my About page.\n"
       },
       {
         "href": "http://example.org/posts/2022/06/my-vacation/",
