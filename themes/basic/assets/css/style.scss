@@ -2,6 +2,18 @@ body {
     background-image: url("/img/home/wood2.jpg");
 }
 
+#content {
+    padding: 0 30px;
+    min-height: 700px;
+}
+
+.main-title {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    letter-spacing: 0.1rem;
+}
+
 .container {
     margin: 0 auto;
     width: 80%;
@@ -103,7 +115,7 @@ img[alt=home] {
 }
 
 li {
-    margin-left:2em;
+    margin-left:1em;
 }
 
 @import 'books';
